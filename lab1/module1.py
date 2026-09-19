@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk
-from utils import create_dialog, close_dialog
+from lab1.utils import create_dialog, close_dialog
 
 GROUPS = [
     "ІП-31", "ІП-32", "ІП-33",
