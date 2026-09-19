@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
-from lab1.module1 import show_work1
-from lab1.module2 import show_work2
+from module1 import show_work1
+from module2 import show_work2
 
 
 def handle_work1():

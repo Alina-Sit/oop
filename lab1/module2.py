@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk
-from lab1.utils import create_dialog, close_dialog
+from utils import create_dialog, close_dialog
 
 
 def show_work2(parent):
